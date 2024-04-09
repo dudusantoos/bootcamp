@@ -291,4 +291,14 @@ footer {
     .checkboxItens label {
         font-size: 25px;
     }
+
+    /*Footer*/
+
+    footer .lineOne {
+        flex-direction: column;
+    }
+
+    footer .adress {
+        width: 80%;
+    }
 }
